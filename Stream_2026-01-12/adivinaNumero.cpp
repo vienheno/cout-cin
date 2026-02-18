@@ -11,9 +11,9 @@ El programa generará un número Pseudoaleatorio y el usuario tiene que adivinar
 */
 
 #include <iostream>
-#include <string>
-#include <random>
-#include <ctime>
+//#include <string>
+//#include <random>
+//#include <ctime>
 
 using namespace std;
 
